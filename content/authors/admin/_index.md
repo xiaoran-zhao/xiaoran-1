@@ -3,15 +3,15 @@
 title: Lianyong Qi
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+# first_name:  
+# last_name:  
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,12 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
-
-# Organizations/Affiliations to display in Biography blox
-organizations:
-  - name: OpenAI
-    url: https://openai.com/
+role: Professor, IEEE Senior Member, Clarivate \"Highly Cited Researcher\" 2021-2023; CCF-Service Computing Committee-Young Talent Award (CCF服务计算\"青年才俊奖\"), 2023山东省自然科学二等奖
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -183,4 +178,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+**Lianyong Qi**, received his Ph.D degree from the Department of Computer Science and Technology, Nanjing University, China. In 2010, he visited the Department of Information and Communication Technology, Swinburne University of Technology, Australia. Now, he is a professor of the College of Computer Science and Technology, China University of Petroleum (East China), China. Before joining UPC, he is a professor of Qufu Normal University, China. He was awarded "Shandong Province Natural Science Award" (Second Prize, 2023), "CCF-Service Computing Committee-Young Talent Award" (2023), "Highly Cited Researcher" (Clarivate, 2021-2023), "Highly Cited Chinese Researchers" (Elsevier, 2020-2023) and "World's Top 2% Scientists" (Stanford University, 2020-2023). His research interests include AI and recommender systems.
+
+He has published research papers in international journals ( e.g., IEEE JSAC, IEEE TKDE, IEEE TPDS, IEEE ToN, IEEE TNNLS, IEEE TFS, IEEE TSC, IEEE/ACM TCBB, IEEE TCC, IEEE TBD, IEEE TII, IEEE T-ITS, IEEE TCSS, IEEE TNSE, IEEE TCE, IEEE TAI, ACM TOMM, ACM TOSN, ACM TOIT, ACM TIST, etc) and international conferences ( e.g., KDD, IJCAI, SIGIR, WWW, MM, CIKM, WSDM, DASFAA, ICWS, ICSOC), including 10+ Best/Outstanding Paper Awards (e.g., IEEE UIC, IEEE HPCC, IEEE ISPA, IEEE ICPADS). He is currently serving as managing editor of Journal of Organizational and End User Computing (SCI/SSCI), editorial boards of Tsinghua Science and Technology, Nature Scientific Reports, etc. He has served as chairs of 10+ international conferences, PC members of KDD/WWW/AAAI/IJCAI/ICDCS/CIKM/DASFAA/ECML-PKDD/ICSOC/ICWS conferences, and guest editors of reputable journals including ACM Transactions on Autonomous and Adaptive Systems (TAAS), IEEE Transactions on Automation Science and Engineering (TASE), IEEE Transactions on Big Data (TBD), IEEE Transactions on Computational Social Systems (TCSS), ACM Transactions on Recommender Systems (TORS), ACM Transactions on Asian and Low-Resource Language Information Processing (TALLIP), Information Sciences, etc.
