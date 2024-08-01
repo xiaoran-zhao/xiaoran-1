@@ -20,7 +20,9 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Professor, IEEE Senior Member, Clarivate \"Highly Cited Researcher\" 2021-2023; CCF-Service Computing Committee-Young Talent Award (CCF服务计算\"青年才俊奖\"), 2023山东省自然科学二等奖
+role: Professor
+
+organizations: College of Computer Science and Technology, China University of Petroleum (East China), China
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
