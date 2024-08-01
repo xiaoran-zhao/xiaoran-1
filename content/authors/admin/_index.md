@@ -22,8 +22,6 @@ highlight_name: true
 # Role/position/tagline
 role: Professor
 
-organizations: College of Computer Science and Technology, China University of Petroleum (East China), China
-
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
